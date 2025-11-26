@@ -182,6 +182,5 @@ Build → Rebuild Project
 
 MIT License 
 
-
-Patricia Sigei  
-[GitHub](https://github.com/Patricia-Sige
+## Author
+Patricia Sigei
